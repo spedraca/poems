@@ -51,7 +51,7 @@
 	"@id": "https://raw.githubusercontent.com/spedraca/poems/master/poem.xml?person_annotation_20200820211624051",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2020-08-21T01:16:24.051Z",
-	"dcterms:issued": "2020-08-21T01:16:46.231Z",
+	"dcterms:issued": "2020-08-21T01:16:47.941Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/lucaju",
 		"@type": [
@@ -127,7 +127,7 @@
 	"@id": "https://raw.githubusercontent.com/spedraca/poems/master/poem.xml?person_annotation_20200820211624059",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2020-08-21T01:16:24.059Z",
-	"dcterms:issued": "2020-08-21T01:16:46.238Z",
+	"dcterms:issued": "2020-08-21T01:16:47.942Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/lucaju",
 		"@type": [
