@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://cwrc.ca/schemas/cwrc_tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cwrc.ca/schemas/cwrc_tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 	
 	
 	
@@ -51,22 +48,22 @@
 		"schema": "http://schema.org/",
 		"xsd": "http://www.w3.org/2001/XMLSchema#"
 	},
-	"@id": "https://raw.githubusercontent.com/spedraca/poems/master/poem.xml?person_annotation_20200814193921774",
+	"@id": "https://raw.githubusercontent.com/spedraca/poems/master/poem.xml?person_annotation_20200820224129007",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2020-08-14T23:39:21.774Z",
-	"dcterms:issued": "2020-08-14T23:39:34.617Z",
+	"dcterms:created": "2020-08-21T02:41:29.007Z",
+	"dcterms:issued": "2020-08-21T02:41:51.157Z",
 	"dcterms:creator": {
-		"@id": "https://github.com/spedraca",
+		"@id": "https://github.com/lucaju",
 		"@type": [
 			"cwrc:NaturalPerson",
 			"schema:Person"
 		],
-		"cwrc:hasName": "Samia Pedraça",
-		"foaf:nick": "spedraca"
+		"cwrc:hasName": "Luciano Frizzera",
+		"foaf:nick": "lucaju"
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/spedraca/poems/master/poem.xml?person_annotation_20200814193921774#Target",
+		"@id": "https://raw.githubusercontent.com/spedraca/poems/master/poem.xml?person_annotation_20200820224129007#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/spedraca/poems/master/poem.xml",
@@ -80,7 +77,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/spedraca/poems/master/poem.xml?person_annotation_20200814193921774#Selector",
+			"@id": "https://raw.githubusercontent.com/spedraca/poems/master/poem.xml?person_annotation_20200820224129007#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/head/persName"
 		}
@@ -127,22 +124,22 @@
 		"schema": "http://schema.org/",
 		"xsd": "http://www.w3.org/2001/XMLSchema#"
 	},
-	"@id": "https://raw.githubusercontent.com/spedraca/poems/master/poem.xml?person_annotation_20200814193921775",
+	"@id": "https://raw.githubusercontent.com/spedraca/poems/master/poem.xml?person_annotation_20200820224129011",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2020-08-14T23:39:21.775Z",
-	"dcterms:issued": "2020-08-14T23:39:34.623Z",
+	"dcterms:created": "2020-08-21T02:41:29.011Z",
+	"dcterms:issued": "2020-08-21T02:41:51.169Z",
 	"dcterms:creator": {
-		"@id": "https://github.com/spedraca",
+		"@id": "https://github.com/lucaju",
 		"@type": [
 			"cwrc:NaturalPerson",
 			"schema:Person"
 		],
-		"cwrc:hasName": "Samia Pedraça",
-		"foaf:nick": "spedraca"
+		"cwrc:hasName": "Luciano Frizzera",
+		"foaf:nick": "lucaju"
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/spedraca/poems/master/poem.xml?person_annotation_20200814193921775#Target",
+		"@id": "https://raw.githubusercontent.com/spedraca/poems/master/poem.xml?person_annotation_20200820224129011#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/spedraca/poems/master/poem.xml",
@@ -156,7 +153,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/spedraca/poems/master/poem.xml?person_annotation_20200814193921775#Selector",
+			"@id": "https://raw.githubusercontent.com/spedraca/poems/master/poem.xml?person_annotation_20200820224129011#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/docAuthor/persName"
 		}
